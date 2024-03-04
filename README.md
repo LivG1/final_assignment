@@ -3,7 +3,7 @@
 
 This repository contains my Tech Basics 2 Exam MVP. I have built an app which allows friends to connect via sharing their location and staying safe by keeping track of each other. Users are able to immediately contact Emergency if they are in danger.
 
-- Upon launching **app.py** you are greeted with an emergency page that allows the user to press a button and call for help, or proceed to the homepage of the app via a second button.
+- Upon launching _app.py_ you are greeted with an emergency page that allows the user to press a button and call for help, or proceed to the homepage of the app via a second button.
 - The homepage shows a map and has five buttons that guide the user onto different pages.
 - The first three buttons simulate the location of friends. Each button directs the user to a profile page of the friend. From there the user can carry out a few different tasks.
   - The user can click on a call button and dial the number of the friend.
