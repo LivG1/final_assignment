@@ -17,7 +17,6 @@ screen_height = 750
 root.minsize(screen_width, screen_height)
 
 
-
 # create a definition to clear the window for a new page
 def clear_widgets():
     # this function will destroy any widgets created
