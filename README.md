@@ -13,5 +13,4 @@ This repository contains my Tech Basics 2 Exam MVP. I have built an app which al
   - The user can click on the exit button to reenter the homepage.
 - The other two buttons on the homepage guide the user back to the emergency page or the users own profile page.
   - On the profile page the user can enter their name and update their status, as well as click on a button to share or hide their location from friends. They can also make a contact request to the app or delete their own profile.
----
 ## Have fun!
