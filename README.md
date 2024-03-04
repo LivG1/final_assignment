@@ -5,12 +5,13 @@ This repository contains my Tech Basics 2 Exam MVP. I have built an app which al
 
 - Upon launching _app.py_ you are greeted with an emergency page that allows the user to press a button and call for help, or proceed to the homepage of the app via a second button.
 - The homepage shows a map and has five buttons that guide the user onto different pages.
-- The first three buttons simulate the location of friends. Each button directs the user to a profile page of the friend. From there the user can carry out a few different tasks.
-  - The user can click on a call button and dial the number of the friend.
-  - The user can click on a location button to view a map and see the movements of the friend.
-  - The user can click on a button in order to add or remove the friends profile from favorites.
-  - The user can click on a button in order to unfollow the profile.
-  - The user can click on the exit button to reenter the homepage.
+- The first three buttons simulate the location of friends. Each button directs the user to a profile page of the friend. From there the user can carry out a few different tasks by clicking on buttons.
+  
+  - The user can dial the number of the friend.
+  - The user can view a map and see the movements of the friend.
+  - The user can add or remove the friends profile from favorites.
+  - The user can unfollow the profile of the friend.
+  - The user can exit the page and reenter the homepage.
 - The other two buttons on the homepage guide the user back to the emergency page or the users own profile page.
   - On the profile page the user can enter their name and update their status, as well as click on a button to share or hide their location from friends. They can also make a contact request to the app or delete their own profile.
 ## Have fun!
